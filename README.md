@@ -49,6 +49,8 @@ There is a singly-linked list head and we want to delete a node node in it. You 
 (D). Searching node in a linked list:
 The idea is to traverse all the nodes of the linked list, starting from the head. While traversing, if we find a node whose value is equal to key then print "Yes", otherwise print "No".The idea is to recursively traverse all the nodes starting from the head of linked list. For any node, if the value is equal to key, then return true. Otherwise, recursively search the next node. If at any point the head reaches NULL, it means that we have reached the end of linked list so return false.
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/d921fd1e-72b1-4053-b20c-04736c92a2c9)
 
 
 
